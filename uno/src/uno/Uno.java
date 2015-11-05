@@ -18,6 +18,7 @@ public class Uno {
     public static void main(String[] args) {
         System.out.println("hola");
         JOptionPane.showMessageDialog(null, "carlos");
+        System.out.println("hola carlos");
         // TODO code application logic here
     }
 }
