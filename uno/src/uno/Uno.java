@@ -4,6 +4,8 @@
  */
 package uno;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author CRAQ
@@ -15,6 +17,7 @@ public class Uno {
      */
     public static void main(String[] args) {
         System.out.println("hola");
+        JOptionPane.showMessageDialog(null, "carlos");
         // TODO code application logic here
     }
 }
